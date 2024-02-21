@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-Hi~ This is MadCcc, a frontend rookie 🐦.
+Hi~ This is namtc07, a frontend rookie.
 
 ![github-status][github-status]
 
-[top-langs]: https://github-readme-stats.vercel.app/api/top-langs/?username=MadCcc
-[github-status]: https://github-readme-stats.vercel.app/api?username=MadCcc
+[top-langs]: https://github-readme-stats.vercel.app/api/top-langs/?username=namtc07
+[github-status]: https://github-readme-stats.vercel.app/api?username=namtc07
 
 
 <!--
