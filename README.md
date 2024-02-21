@@ -1,8 +1,12 @@
 ### Hi there 👋
 
-Hi~ This is namtc07, a frontend rookie.
+Hi~ This is MadCcc, a frontend rookie 🐦.
 
 ![github-status][github-status]
+
+[top-langs]: https://github-readme-stats.vercel.app/api/top-langs/?username=MadCcc
+[github-status]: https://github-readme-stats.vercel.app/api?username=MadCcc
+
 
 <!--
 **namtc07/namtc07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
