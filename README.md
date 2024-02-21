@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Hi~ This is namtc07, a frontend rookie.
+
+![github-status][github-status]
+
 <!--
 **namtc07/namtc07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
