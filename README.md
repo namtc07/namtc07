@@ -2,13 +2,7 @@
 
 Hi~ This is namtc07, a frontend rookie.
 
-![github-status][github-status]
 
-[top-langs]: https://github-readme-stats.vercel.app/api/top-langs/?username=namtc07
-[github-status]: https://github-readme-stats.vercel.app/api?username=namtc07
-
-
-<!--
 **namtc07/namtc07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -21,4 +15,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
