@@ -75,16 +75,6 @@ const dev = {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=namtc07&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff&cache_seconds=86400" height="165em"/>
-
-</div>
-
----
-
 ## 📅 Annual Summary
 
 <div align="center">
