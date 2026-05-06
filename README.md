@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=namtc07&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20UI%2FUX%20Enthusiast&descSize=18&descAlignY=58&descColor=a78bfa" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=namtc07&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer&descSize=18&descAlignY=58&descColor=a78bfa" width="100%"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&width=600&lines=Xin+chào!+Tôi+là+Nam+👋;Frontend+Developer+💻;UI%2FUX+Enthusiast+🎨;Luôn+học+hỏi+điều+mới+🚀;Biến+cà+phê+thành+code+☕→💻)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&width=600&lines=Xin+chào!+Tôi+là+Nam+👋;Frontend+Developer+💻;Luôn+học+hỏi+điều+mới+🚀;Biến+cà+phê+thành+code+☕→💻)](https://git.io/typing-svg)
 
 <br/>
 
@@ -93,20 +93,6 @@ const namtc07 = {
 
 ---
 
-## 🐍 Đóng Góp
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/namtc07/namtc07/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/namtc07/namtc07/output/github-contribution-grid-snake.svg"/>
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/namtc07/namtc07/output/github-contribution-grid-snake.svg"/>
-</picture>
-
-</div>
-
----
-
 ## 📋 Tóm Tắt Hồ Sơ
 
 <div align="center">
@@ -117,16 +103,6 @@ const namtc07 = {
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=namtc07&theme=tokyonight" height="180em"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=namtc07&theme=tokyonight" height="180em"/>
 </a>
-
-</div>
-
----
-
-## 💬 Câu Nói Lập Trình Viên
-
-<div align="center">
-
-![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
 
