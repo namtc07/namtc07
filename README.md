@@ -17,7 +17,7 @@
 
 ---
 
-<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+<img align="right" alt="Coding" width="360" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 
 ## 🙋‍♂️ Về Tôi
 
@@ -39,6 +39,7 @@ const namtc07 = {
 - 👯 Muốn hợp tác trên các **dự án mã nguồn mở**
 - 💬 Hỏi tôi về **HTML, CSS, JavaScript, React**
 - ⚡ Sự thật thú vị: **Tôi biến ☕ cà phê thành 💻 code**
+- 📫 Liên hệ: **namtc07@gmail.com**
 
 <br clear="right"/>
 
@@ -80,14 +81,14 @@ const namtc07 = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=namtc07&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=58A6FF&text_color=c9d1d9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=namtc07&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=namtc07&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=58A6FF&text_color=c9d1d9&hide=contribs"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=namtc07&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8&hide=html"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=namtc07&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=namtc07&theme=tokyonight-duo&hide_border=true&background=0d1117&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa&sideLabels=58A6FF&dates=c9d1d9)](https://git.io/streak-stats)
 
 </div>
 
@@ -121,7 +122,7 @@ const namtc07 = {
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=namtc07&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=58A6FF&point=ff6b6b)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=namtc07&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=58A6FF&point=ff6b6b&area=true&area_color=a78bfa)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
