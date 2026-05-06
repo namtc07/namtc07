@@ -84,7 +84,6 @@ const dev = {
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=namtc07&theme=github_dark" height="165em"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=namtc07&theme=github_dark" height="165em"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=namtc07&theme=github_dark" height="165em"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=namtc07&theme=github_dark&utcOffset=7" height="165em"/>
 
 </div>
 
