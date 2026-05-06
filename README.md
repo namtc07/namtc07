@@ -79,20 +79,25 @@ const dev = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=namtc07&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" height="165em"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namtc07&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="165em"/>
+<img src="https://github-readme-stats.vercel.app/api?username=namtc07&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff&cache_seconds=86400" height="165em"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namtc07&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&cache_seconds=86400" height="165em"/>
 
-<img src="https://streak-stats.demolab.com?user=namtc07&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6e6e&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" height="165em"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=namtc07&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6e6e&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" height="165em"/>
 
 </div>
 
 ---
 
-## 📈 Activity Graph
+## 📅 Tóm Tắt Theo Năm
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=namtc07&theme=github-compact&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=namtc07&theme=github_dark" width="100%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=namtc07&theme=github_dark" height="165em"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=namtc07&theme=github_dark" height="165em"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=namtc07&theme=github_dark" height="165em"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=namtc07&theme=github_dark&utcOffset=7" height="165em"/>
 
 </div>
 
