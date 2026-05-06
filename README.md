@@ -76,21 +76,6 @@ const namtc07 = {
 
 ---
 
-## 📊 Thống Kê GitHub
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=namtc07&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=58A6FF&text_color=c9d1d9&hide=contribs"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=namtc07&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8&hide=html"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=namtc07&theme=tokyonight-duo&hide_border=true&background=0d1117&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa&sideLabels=58A6FF&dates=c9d1d9)](https://git.io/streak-stats)
-
-</div>
-
 ---
 
 ## 📋 Tóm Tắt Hồ Sơ
