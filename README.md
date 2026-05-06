@@ -10,7 +10,6 @@
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=namtc07&color=a78bfa&style=for-the-badge&label=LƯỢT+XEM+TRANG" alt="profile views"/>
-  <img src="https://img.shields.io/github/followers/namtc07?style=for-the-badge&color=58A6FF&labelColor=1a1a2e&label=NGƯỜI+THEO+DÕI" alt="followers"/>
 </p>
 
 </div>
@@ -94,11 +93,15 @@ const namtc07 = {
 
 ---
 
-## 🏆 GitHub Trophies
+## 🐍 Đóng Góp
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=namtc07&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/namtc07/namtc07/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/namtc07/namtc07/output/github-contribution-grid-snake.svg"/>
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/namtc07/namtc07/output/github-contribution-grid-snake.svg"/>
+</picture>
 
 </div>
 
@@ -119,11 +122,11 @@ const namtc07 = {
 
 ---
 
-## 📈 Biểu Đồ Hoạt Động
+## 💬 Câu Nói Lập Trình Viên
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=namtc07&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=58A6FF&point=ff6b6b&area=true&area_color=a78bfa)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
 
