@@ -80,9 +80,6 @@ const dev = {
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=namtc07&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff&cache_seconds=86400" height="165em"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namtc07&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&cache_seconds=86400" height="165em"/>
-
-<img src="https://streak-stats.demolab.com?user=namtc07&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6e6e&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" height="165em"/>
 
 </div>
 
@@ -103,16 +100,6 @@ const dev = {
 
 ---
 
-## 🏆 Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=namtc07&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 ## 🌐 Connect
 
 <div align="center">
@@ -120,13 +107,5 @@ const dev = {
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/namtc07)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:namtc07.wrk@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/namtc07)
-
-<br/>
-
-> *"First, solve the problem. Then, write the code."* — John Johnson
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=100&section=footer" width="100%"/>
 
 </div>
