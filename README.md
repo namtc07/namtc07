@@ -39,7 +39,7 @@ const namtc07 = {
 - 👯 Muốn hợp tác trên các **dự án mã nguồn mở**
 - 💬 Hỏi tôi về **HTML, CSS, JavaScript, React**
 - ⚡ Sự thật thú vị: **Tôi biến ☕ cà phê thành 💻 code**
-- 📫 Liên hệ: **namtc07@gmail.com**
+- 📫 Liên hệ: **namtc07.wrk@gmail.com**
 
 <br clear="right"/>
 
@@ -104,15 +104,16 @@ const namtc07 = {
 
 ---
 
-## 🐍 Đồ Thị Đóng Góp
+## 📋 Tóm Tắt Hồ Sơ
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/namtc07/namtc07/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/namtc07/namtc07/output/github-contribution-grid-snake.svg"/>
-  <img alt="github-snake" src="https://raw.githubusercontent.com/namtc07/namtc07/output/github-contribution-grid-snake-dark.svg"/>
-</picture>
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=namtc07&theme=tokyonight)](https://github.com/vn-ki/github-profile-summary-cards)
+
+<a href="https://github.com/vn-ki/github-profile-summary-cards">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=namtc07&theme=tokyonight" height="180em"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=namtc07&theme=tokyonight" height="180em"/>
+</a>
 
 </div>
 
@@ -133,7 +134,7 @@ const namtc07 = {
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/namtc07)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:namtc07@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:namtc07.wrk@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/namtc07)
 
 <br/>
